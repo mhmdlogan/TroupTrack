@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338630981718",
+    "firebase_url": "https://trouptrack.firebaseio.com",
+    "project_id": "trouptrack",
+    "storage_bucket": "trouptrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338630981718:android:064abb20ebd91688",
+        "android_client_info": {
+          "package_name": "com.trouptrack.mhmdlogan.trouptrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338630981718-tue0jjflq9gvctvgnmctd8ft8b8fv0bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trouptrack.mhmdlogan.trouptrack",
+            "certificate_hash": "29a4f929d4f6643698ba50d49dc33d0e21faffd4"
+          }
+        },
+        {
+          "client_id": "338630981718-j539vkd9v5et5p4m8r5qeska4s4mv1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNVtIg57df7nUyD16fKb3XaWvGaJUqs0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338630981718-j539vkd9v5et5p4m8r5qeska4s4mv1qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
